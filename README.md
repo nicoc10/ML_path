@@ -1,4 +1,4 @@
-## Machine learing and AI path
+## Machine learning and AI path
 
 ### Basic
 
