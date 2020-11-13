@@ -1,5 +1,10 @@
 ## Machine learning and AI path
 
+### Books
+
+- [MasteryMachineLearning - Jason Browniee](https://drive.google.com/drive/folders/1Xk6xK7YDO00wz2MnbpYGe6SRWNowk7J4?usp=sharing)
+
+
 ### Basic
 
 - [ ] [Bayesian Machine Learning in Python: A/B Testing - Lazy Programmer](https://www.udemy.com/course/bayesian-machine-learning-in-python-ab-testing/?referralCode=8312098927EDB63AF429)
